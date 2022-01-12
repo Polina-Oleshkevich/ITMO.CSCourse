@@ -8,29 +8,62 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ITMO.CSCourse.WFApp.Lab1._2
+namespace MdiApplication
 {
-    public partial class Form1 : Form
+    public partial class ParentForm : Form
+
     {
-        public Form1()
+        public ParentForm()
         {
             InitializeComponent();
         }
+        private int openDocuments = 0;
+        private void Form1_Load(object sender, EventArgs e)
 
-        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ExitMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void WindowCascadeMenuItem_Click(object sender, EventArgs e)
         {
-            System.Drawing.Drawing2D.GraphicsPath myPath =
-                new System.Drawing.Drawing2D.GraphicsPath();
-            myPath.AddPolygon(new Point[] 
-            { new Point(0, 0), new Point(0, this.Height), 
-                new Point(this.Width, 0) });
-            Region myRegion = new Region(myPath); 
-            this.Region = myRegion;
+            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
+        }
+
+        private void WindowTileMenuItem_Click(object sender, EventArgs e)
+        {
+            this.LayoutMdi(System.Windows.Forms.MdiLayout.TileHorizontal);
+        }
+
+        private void mdiMenuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ExitMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void WindowCascadeMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
+        }
+
+        private void WindowTileMenuItem_Click_1(object sender, EventArgs e)
+        {
+            this.LayoutMdi(System.Windows.Forms.MdiLayout.TileHorizontal);
+        }
+
+        private void NewMenuItem_Click(object sender, EventArgs e)
+        {
+            ChildForm newChild = new ChildForm();
+            newChild.MdiParent = this; newChild.Show();
+            newChild.Text = newChild.Text + " " + ++openDocuments;
         }
     }
 }

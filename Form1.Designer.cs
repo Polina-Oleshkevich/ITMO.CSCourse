@@ -1,7 +1,7 @@
 ﻿
-namespace ITMO.CSCourse.WFApp.Lab1._2
+namespace MdiApplication
 {
-    partial class Form1
+    partial class ParentForm
     {
         /// <summary>
         /// Required designer variable.
@@ -29,37 +29,100 @@ namespace ITMO.CSCourse.WFApp.Lab1._2
         /// </summary>
         private void InitializeComponent()
         {
-            this.button1 = new System.Windows.Forms.Button();
+            this.MdiMenu = new System.Windows.Forms.MenuStrip();
+            this.FileMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.NewMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ExitMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.WindowMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.WindowCascadeMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.WindowTileMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.MdiMenu.SuspendLayout();
             this.SuspendLayout();
             // 
-            // button1
+            // MdiMenu
             // 
-            this.button1.Location = new System.Drawing.Point(0, 1);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "Close Form";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.MdiMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.FileMenuItem,
+            this.WindowMenuItem});
+            this.MdiMenu.Location = new System.Drawing.Point(0, 0);
+            this.MdiMenu.MdiWindowListItem = this.WindowMenuItem;
+            this.MdiMenu.Name = "MdiMenu";
+            this.MdiMenu.Size = new System.Drawing.Size(404, 24);
+            this.MdiMenu.TabIndex = 1;
+            this.MdiMenu.Text = "menuStrip1";
             // 
-            // Form1
+            // FileMenuItem
+            // 
+            this.FileMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.NewMenuItem,
+            this.ExitMenuItem});
+            this.FileMenuItem.Name = "FileMenuItem";
+            this.FileMenuItem.Size = new System.Drawing.Size(37, 20);
+            this.FileMenuItem.Text = "&File";
+            // 
+            // NewMenuItem
+            // 
+            this.NewMenuItem.Name = "NewMenuItem";
+            this.NewMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.NewMenuItem.Text = "&New";
+            this.NewMenuItem.Click += new System.EventHandler(this.NewMenuItem_Click);
+            // 
+            // ExitMenuItem
+            // 
+            this.ExitMenuItem.Name = "ExitMenuItem";
+            this.ExitMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.ExitMenuItem.Text = "&Exit";
+            this.ExitMenuItem.Click += new System.EventHandler(this.ExitMenuItem_Click_1);
+            // 
+            // WindowMenuItem
+            // 
+            this.WindowMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.WindowCascadeMenuItem,
+            this.WindowTileMenuItem});
+            this.WindowMenuItem.Name = "WindowMenuItem";
+            this.WindowMenuItem.Size = new System.Drawing.Size(63, 20);
+            this.WindowMenuItem.Text = "&Window";
+            // 
+            // WindowCascadeMenuItem
+            // 
+            this.WindowCascadeMenuItem.Name = "WindowCascadeMenuItem";
+            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.WindowCascadeMenuItem.Text = "&Cascade";
+            this.WindowCascadeMenuItem.Click += new System.EventHandler(this.WindowCascadeMenuItem_Click_1);
+            // 
+            // WindowTileMenuItem
+            // 
+            this.WindowTileMenuItem.Name = "WindowTileMenuItem";
+            this.WindowTileMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.WindowTileMenuItem.Text = "&Tile";
+            this.WindowTileMenuItem.Click += new System.EventHandler(this.WindowTileMenuItem_Click_1);
+            // 
+            // ParentForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Red;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(404, 281);
+            this.Controls.Add(this.MdiMenu);
+            this.IsMdiContainer = true;
+            this.Name = "ParentForm";
+            this.Text = "Parent Form";
             this.Load += new System.EventHandler(this.Form1_Load);
+            this.MdiMenu.ResumeLayout(false);
+            this.MdiMenu.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
 
-        protected System.Windows.Forms.Button button1;
+        private System.Windows.Forms.MenuStrip MdiMenu;
+        private System.Windows.Forms.ToolStripMenuItem FileMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem NewMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ExitMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem WindowMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem WindowCascadeMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem WindowTileMenuItem;
     }
 }
 
