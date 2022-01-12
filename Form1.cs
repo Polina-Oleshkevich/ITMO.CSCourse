@@ -8,62 +8,28 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MdiApplication
+namespace ITMO.CSCourse.WFApp.Lab1
 {
-    public partial class ParentForm : Form
-
+    public partial class Form1 : Form
     {
-        public ParentForm()
+        public Form1()
         {
             InitializeComponent();
         }
-        private int openDocuments = 0;
-        private void Form1_Load(object sender, EventArgs e)
 
+        private void button1_Click(object sender, EventArgs e)
         {
-
+            this.FormBorderStyle = FormBorderStyle.Sizable;
         }
 
-        private void ExitMenuItem_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Size = new Size(300, 500);
         }
 
-        private void WindowCascadeMenuItem_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
-        }
-
-        private void WindowTileMenuItem_Click(object sender, EventArgs e)
-        {
-            this.LayoutMdi(System.Windows.Forms.MdiLayout.TileHorizontal);
-        }
-
-        private void mdiMenuToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void ExitMenuItem_Click_1(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void WindowCascadeMenuItem_Click_1(object sender, EventArgs e)
-        {
-            this.LayoutMdi(System.Windows.Forms.MdiLayout.Cascade);
-        }
-
-        private void WindowTileMenuItem_Click_1(object sender, EventArgs e)
-        {
-            this.LayoutMdi(System.Windows.Forms.MdiLayout.TileHorizontal);
-        }
-
-        private void NewMenuItem_Click(object sender, EventArgs e)
-        {
-            ChildForm newChild = new ChildForm();
-            newChild.MdiParent = this; newChild.Show();
-            newChild.Text = newChild.Text + " " + ++openDocuments;
+            this.Opacity = 1;
         }
     }
 }

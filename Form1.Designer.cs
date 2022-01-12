@@ -1,7 +1,7 @@
 ﻿
-namespace MdiApplication
+namespace ITMO.CSCourse.WFApp.Lab1
 {
-    partial class ParentForm
+    partial class Form1
     {
         /// <summary>
         /// Required designer variable.
@@ -29,100 +29,64 @@ namespace MdiApplication
         /// </summary>
         private void InitializeComponent()
         {
-            this.MdiMenu = new System.Windows.Forms.MenuStrip();
-            this.FileMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.NewMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ExitMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.WindowMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.WindowCascadeMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.WindowTileMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.MdiMenu.SuspendLayout();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // MdiMenu
+            // button1
             // 
-            this.MdiMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.FileMenuItem,
-            this.WindowMenuItem});
-            this.MdiMenu.Location = new System.Drawing.Point(0, 0);
-            this.MdiMenu.MdiWindowListItem = this.WindowMenuItem;
-            this.MdiMenu.Name = "MdiMenu";
-            this.MdiMenu.Size = new System.Drawing.Size(404, 24);
-            this.MdiMenu.TabIndex = 1;
-            this.MdiMenu.Text = "menuStrip1";
+            this.button1.Location = new System.Drawing.Point(161, 42);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "Border Style";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // FileMenuItem
+            // button2
             // 
-            this.FileMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.NewMenuItem,
-            this.ExitMenuItem});
-            this.FileMenuItem.Name = "FileMenuItem";
-            this.FileMenuItem.Size = new System.Drawing.Size(37, 20);
-            this.FileMenuItem.Text = "&File";
+            this.button2.Location = new System.Drawing.Point(328, 42);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 1;
+            this.button2.Text = "Resize";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // NewMenuItem
+            // button3
             // 
-            this.NewMenuItem.Name = "NewMenuItem";
-            this.NewMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.NewMenuItem.Text = "&New";
-            this.NewMenuItem.Click += new System.EventHandler(this.NewMenuItem_Click);
+            this.button3.Location = new System.Drawing.Point(512, 42);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Opacity";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
-            // ExitMenuItem
-            // 
-            this.ExitMenuItem.Name = "ExitMenuItem";
-            this.ExitMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.ExitMenuItem.Text = "&Exit";
-            this.ExitMenuItem.Click += new System.EventHandler(this.ExitMenuItem_Click_1);
-            // 
-            // WindowMenuItem
-            // 
-            this.WindowMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.WindowCascadeMenuItem,
-            this.WindowTileMenuItem});
-            this.WindowMenuItem.Name = "WindowMenuItem";
-            this.WindowMenuItem.Size = new System.Drawing.Size(63, 20);
-            this.WindowMenuItem.Text = "&Window";
-            // 
-            // WindowCascadeMenuItem
-            // 
-            this.WindowCascadeMenuItem.Name = "WindowCascadeMenuItem";
-            this.WindowCascadeMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.WindowCascadeMenuItem.Text = "&Cascade";
-            this.WindowCascadeMenuItem.Click += new System.EventHandler(this.WindowCascadeMenuItem_Click_1);
-            // 
-            // WindowTileMenuItem
-            // 
-            this.WindowTileMenuItem.Name = "WindowTileMenuItem";
-            this.WindowTileMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.WindowTileMenuItem.Text = "&Tile";
-            this.WindowTileMenuItem.Click += new System.EventHandler(this.WindowTileMenuItem_Click_1);
-            // 
-            // ParentForm
+            // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(404, 281);
-            this.Controls.Add(this.MdiMenu);
-            this.IsMdiContainer = true;
-            this.Name = "ParentForm";
-            this.Text = "Parent Form";
-            this.Load += new System.EventHandler(this.Form1_Load);
-            this.MdiMenu.ResumeLayout(false);
-            this.MdiMenu.PerformLayout();
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
+            this.Location = new System.Drawing.Point(100, 200);
+            this.Name = "Form1";
+            this.Opacity = 0.75D;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
+            this.Text = "Trey Research";
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
         #endregion
 
-        private System.Windows.Forms.MenuStrip MdiMenu;
-        private System.Windows.Forms.ToolStripMenuItem FileMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem NewMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem ExitMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem WindowMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem WindowCascadeMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem WindowTileMenuItem;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
     }
 }
 

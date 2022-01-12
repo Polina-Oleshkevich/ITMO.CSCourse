@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MdiApplication
+namespace ITMO.CSCourse.WFApp.Lab1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace MdiApplication
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ParentForm());
+            Application.Run(new Form1());
         }
     }
 }
