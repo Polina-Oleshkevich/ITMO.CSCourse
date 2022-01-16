@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\bin\Debug\TestList.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\bin\Debug\TestList.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\bin\Debug\TestList.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.Form1.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.2\TestList\TestList\obj\Debug\TestList.pdb
