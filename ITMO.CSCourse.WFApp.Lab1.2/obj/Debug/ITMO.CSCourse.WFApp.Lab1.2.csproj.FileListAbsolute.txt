@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\bin\Debug\ITMO.CSCourse.WFApp.Lab1.2.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\bin\Debug\ITMO.CSCourse.WFApp.Lab1.2.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\bin\Debug\ITMO.CSCourse.WFApp.Lab1.2.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1._2.Form1.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1._2.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1.2.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1.2.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\obj\Debug\ITMO.CSCourse.WFApp.Lab1._2.nForm.resources

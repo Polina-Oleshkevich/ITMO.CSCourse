@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ITMO.CSCourse.WFApp.Lab1.2", "ITMO.CSCourse.WFApp.Lab1.2.exe", "{0AC59452-DB0A-4158-B2D3-68E98FE42C65}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\bin\Debug\ITMO.CSCourse.WFApp.Lab1.2.exe
+		RemoteMachine = USER-PC
+		StartingDirectory = C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.2\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC59452-DB0A-4158-B2D3-68E98FE42C65}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E3163B-D515-4DF3-B509-B544644CBE51}
+	EndGlobalSection
+EndGlobal
