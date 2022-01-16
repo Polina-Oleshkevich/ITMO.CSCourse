@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.WinQuestion.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 2.1\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb
