@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\bin\Debug\MdiApplication.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\bin\Debug\MdiApplication.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ParentForm.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab1.4\MdiApplication\MdiApplication\obj\Debug\MdiApplication.ChildForm.resources
