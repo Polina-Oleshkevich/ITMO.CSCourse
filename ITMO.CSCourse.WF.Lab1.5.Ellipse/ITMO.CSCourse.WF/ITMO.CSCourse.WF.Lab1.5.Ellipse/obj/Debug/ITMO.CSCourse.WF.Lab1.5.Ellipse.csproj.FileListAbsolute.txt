@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\bin\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\bin\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\bin\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1._5.Ellipse.Form1.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1._5.Ellipse.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.Ellipse\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.Ellipse\obj\Debug\ITMO.CSCourse.WF.Lab1.5.Ellipse.pdb
