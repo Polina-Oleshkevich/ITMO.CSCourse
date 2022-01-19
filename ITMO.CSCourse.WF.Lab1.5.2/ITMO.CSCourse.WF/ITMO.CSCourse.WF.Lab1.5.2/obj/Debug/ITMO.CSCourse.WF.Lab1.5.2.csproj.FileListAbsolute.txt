@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1.5.2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1._5._2.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1.5.2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1.5.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\bin\Debug\ITMO.CSCourse.WF.Lab1.5.2.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\bin\Debug\ITMO.CSCourse.WF.Lab1.5.2.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\bin\Debug\ITMO.CSCourse.WF.Lab1.5.2.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1.5.2.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1.5.2.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1._5._2.Form2.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1._5._2.Form3.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WF.Lab1.5.2\ITMO.CSCourse.WF\ITMO.CSCourse.WF.Lab1.5.2\obj\Debug\ITMO.CSCourse.WF.Lab1._5._2.ParentForm.resources
