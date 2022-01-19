@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\bin\Debug\Библиотека элементов управления Windows.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\bin\Debug\Библиотека элементов управления Windows.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\bin\Debug\Библиотека элементов управления Windows.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека_элементов_управления_Windows.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека_элементов_управления_Windows.UserControlTimer.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека элементов управления Windows.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека элементов управления Windows.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека элементов управления Windows.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека элементов управления Windows.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.1.15\Библиотека элементов управления Windows\Библиотека элементов управления Windows\obj\Debug\Библиотека_элементов_управления_Windows.Form1.resources
