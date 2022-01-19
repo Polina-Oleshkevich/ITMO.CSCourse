@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab3.3\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
