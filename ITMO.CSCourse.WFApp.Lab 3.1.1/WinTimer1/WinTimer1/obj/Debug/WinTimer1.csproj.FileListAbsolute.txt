@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.CSCourse.WFApp.Lab 3.1.1\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
