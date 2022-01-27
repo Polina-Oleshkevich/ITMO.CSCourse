@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\bin\Debug\ITMO.Shop.exe.config
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\bin\Debug\ITMO.Shop.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\bin\Debug\ITMO.Shop.pdb
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.Shop.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.Properties.Resources.resources
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.exe
+C:\Users\User\source\repos\ITMO.CSCourse\ITMO.Shop\ITMO.Shop\ITMO.Shop\obj\Debug\ITMO.Shop.pdb
